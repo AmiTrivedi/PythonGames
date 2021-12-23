@@ -1,0 +1,7 @@
+||LeaveCaveRoom||
+||FinalWarRoom||DeathlyHallows||
+||DumbledoreRoom|PhilosophersStone||
+||GobletOfFire|ChamberOfSecrets||
+||PrisonerOfAzkaban|Hogwarts|EmptyCavePath|DumbledoreRoom||
+||OrderOfPhoenix|HalfBloodPrince||
+||EmptyCavePath|EmptyCavePath||

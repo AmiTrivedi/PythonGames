@@ -1,0 +1,8 @@
+||ResultRoom||
+||UmbridgeClass||
+||LupinClass||HagridClass||
+||DumbledoreClass||
+||LockhartClass|McGonagallClass||
+||SnapeClass|ClassRoom|EmptyCavePath||
+||SproutClass|TrelawneyClass||
+||EmptyCavePath|EmptyCavePath||

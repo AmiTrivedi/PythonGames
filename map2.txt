@@ -1,0 +1,9 @@
+||LeaveField||
+||FinalMatch||
+||RavenclawHouse||
+||BroomstickRoom||
+||SlytherinHouse||
+||GryffindorHouse||
+||HufflepuffHouse||
+||QuiddichGame||
+||EmptyCavePath|EmptyCavePath||
